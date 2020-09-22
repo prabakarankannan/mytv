@@ -1,50 +1,43 @@
 {
-    "Demo": {
+    
+    "Tears of steel": {
         "category": "Movies",
         "channel_language": "English",
-        "channel_logo": "https://mk0corpkalturacdxxf0.kinstacdn.com/wp-content/uploads/2020/07/fav_icon.png",
-        "channel_title": "Demo",
+        "channel_logo": "https://www.freepnglogos.com/uploads/camera-logo-png/camera-photo-gallery-button-28.png",
+        "channel_title": "Tears of steel",
         "channel_type": "application/x-mpegURL",
-        "channel_url": "https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8"
+        "channel_url": "http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
-    "Oceans": {
+    "Sintel": {
         "category": "Movies",
         "channel_language": "English",
-        "channel_logo": "https://mk0corpkalturacdxxf0.kinstacdn.com/wp-content/uploads/2020/07/fav_icon.png",
-        "channel_title": "Oceans",
+        "channel_logo": "https://www.freepnglogos.com/uploads/camera-logo-png/video-camera-png-26.png",
+        "channel_title": "Sintel",
         "channel_type": "application/x-mpegURL",
-        "channel_url": "http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+        "channel_url": "https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/master.m3u8"
     },
-    "Kaltura Add": {
+    "Big buck bunny": {
         "category": "Movies",
         "channel_language": "English",
-        "channel_logo": "https://mk0corpkalturacdxxf0.kinstacdn.com/wp-content/uploads/2020/07/fav_icon.png",
-        "channel_title": "Kaltura Add",
+        "channel_logo": "https://www.freepnglogos.com/uploads/camera-logo-png/video-camera-png-26.png",
+        "channel_title": "Big buck bunny",
         "channel_type": "application/x-mpegURL",
-        "channel_url": "http://cdnapi.kaltura.com/p/1878761/sp/187876100/playManifest/entryId/1_2xvajead/flavorIds/1_tl01409m,1_kptb3ez8,1_re3akioy,1_wuylsxwp/format/applehttp/protocol/http/a.m3u8"
+        "channel_url": "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8"
     },
-    "India Today": {
-        "category": "News",
-        "channel_language": "English",
-        "channel_logo": "https://mk0corpkalturacdxxf0.kinstacdn.com/wp-content/uploads/2020/07/fav_icon.png",
-        "channel_title": "India Today",
-        "channel_type": "application/x-mpegURL",
-        "channel_url": "https://feeds.intoday.in/hltapps/api/master.m3u8"
-    },
-    "Kollywood": {
-        "category": "Movies",
-        "channel_language": "Tamil",
-        "channel_logo": "https://qqcdnpicweb.mxplay.com/media/images/8002.Kollywood.in/1x1/test_pic1574770846721.jpg",
-        "channel_title": "Kollywood",
-        "channel_type": "application/x-mpegURL",
-        "channel_url": "https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8"
-    },
-    "Movies Now": {
+    "Multi Lang": {
         "category": "Movies",
         "channel_language": "English",
-        "channel_logo": "https://mk0corpkalturacdxxf0.kinstacdn.com/wp-content/uploads/2020/07/fav_icon.png",
-        "channel_title": "Movies Now",
+        "channel_logo": "https://www.freepnglogos.com/uploads/camera-logo-png/video-camera-png-26.png",
+        "channel_title": "Multi Lang",
         "channel_type": "application/x-mpegURL",
-        "channel_url": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8"
+        "channel_url": "http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multichannel_subs.m3u8"
+    },
+    "Azure Demo": {
+        "category": "Movies",
+        "channel_language": "English",
+        "channel_logo": "https://www.freepnglogos.com/uploads/camera-logo-png/video-camera-png-26.png",
+        "channel_title": "Azure Demo",
+        "channel_type": "application/x-mpegURL",
+        "channel_url": "http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest(format=m3u8-aapl)"
     }
 }
